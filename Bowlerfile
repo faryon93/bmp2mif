@@ -1,0 +1,11 @@
+{
+	"project": {
+		"name": "bmp2mif",
+		"description": "converts bmp files to mif for xilinx blockram initialisation",
+		"package": "github.com/faryon93/bmp2mif"
+	},
+	"go": {
+		"min-version": "1.4.2"
+	},
+	"assets": []
+}
